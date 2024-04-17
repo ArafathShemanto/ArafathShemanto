@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">Where to find me</h3>
+<h3 align="left">👋Where to find me</h3>
 
 ###
 
