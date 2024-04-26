@@ -48,6 +48,8 @@
 
 <p align="left">👯Currently, I'm open to new opportunities for employment and work engagements</p>
 <p>💬 Ask me about React.js, Next.js, Typescript, Redux, API integration.</p>
+
+
 ###
 
 <h3 align="left">Where to find me</h3>
