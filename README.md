@@ -47,7 +47,7 @@
 ###
 
 <p align="left">👯Currently, I'm open to new opportunities for employment and work engagements</p>
-<p>💬 Ask me about Javascript , React.js, Next.js, Typescript, Redux, API integration.</p>
+<p>💬 Ask me about  <strong> Javascript , React.js, Next.js, Typescript, Redux, API integration. </strong></p>
 <p>📫 How to reach me <strong><a href="mailto:arafathh.shemanto@gmail.com">arafathh.shemanto@gmail.com</a></strong></p>
 
 ###
